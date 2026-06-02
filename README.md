@@ -13,7 +13,7 @@ The project allows users to:
 - Display class topper
 - Show class statistics
 - Save and load data using JSON
-
+ 
 Technologies Used:
 - Python
 - JSON File Handling
